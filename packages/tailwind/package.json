@@ -13,6 +13,6 @@
   },
   "devDependencies": {
     "@forge/configs": "workspace:*",
-    "tailwindcss": "^3.4.17"
+    "tailwindcss": "^4.0.9"
   }
 }
